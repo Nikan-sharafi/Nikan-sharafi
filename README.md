@@ -9,7 +9,7 @@ alt="animated image" height="350px"/>
 
 <br><br><br>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **web development** & **python development**
 
 ###
 
